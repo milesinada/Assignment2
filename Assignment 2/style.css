@@ -1,0 +1,58 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: rgba(180, 187, 184, 0.363);
+    padding: 2%;
+    text-shadow: 2px 1px rgb(139, 143, 143);
+    
+}
+body{
+    border: rgba(0, 0, 0, 0.205) solid 4px;
+    padding: 2em;
+    background: linear-gradient(20deg,rgba(2, 57, 238, 0.185) 40% , rgba(0, 0, 255, 0.068) 40%);
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    color: rgb(82, 86, 90);
+    text-shadow: grey 1px 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bio{
+    background-color: rgba(180, 187, 184, 0.363);
+    padding: 1em;
+    font-family: Arial;
+}
+.bio-continued{
+    background-color: rgba(180, 187, 184, 0.363);
+    padding: 1em;
+    font-family: Arial;
+}
+h3{
+    text-align: center;
+    text-align: center;
+    padding: 20px;
+    color: rgb(82, 86, 90);
+    text-shadow: grey 1px 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hobbies{
+    background-color: rgba(180, 187, 184, 0.363);
+    padding: 1em;
+    font-family: Arial;
+}
+h4{
+    text-align: center;
+    text-align: center;
+    padding: 20px;
+    color: rgb(82, 86, 90);
+    text-shadow: grey 1px 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.locations{
+    background-color: rgba(180, 187, 184, 0.363);
+    font-family: Arial;
+    text-align: center;
+    padding: 1em;
+}
